@@ -17,7 +17,6 @@ public class PlayerSetup : MonoBehaviour
     {
         movement.enabled = true;
         camera.SetActive(true);
-
     }
 
     [PunRPC]
